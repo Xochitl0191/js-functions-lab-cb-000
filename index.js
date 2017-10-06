@@ -8,4 +8,7 @@ function happyHolidaysTo(name){
   if (name === "Robert"){
   return "Happy holidays, you!"
 }
+else {
+  return "Happy holidays, ${name}!"
+}
 }
