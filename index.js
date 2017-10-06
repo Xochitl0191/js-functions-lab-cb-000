@@ -7,7 +7,5 @@ function happyHolidays() {
 function happyHolidaysTo(name){
   if (name === "Robert")
   return "Happy holidays, you!"
-default:
-console.log("Happy holidays, ${name}!")
 
 }
